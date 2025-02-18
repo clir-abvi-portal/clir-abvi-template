@@ -41,8 +41,8 @@ metadata: Option3_Metadata
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 page_gen:
-  - data: Option3_Metadata-iiif
-  - data: 'Option3_Metadata'
+  - data: Option3_Metadata
+  - data: 'Option3_Metadata-iiif'
     template: 'manifest'
     template_override: true
     name: 'objectid'
