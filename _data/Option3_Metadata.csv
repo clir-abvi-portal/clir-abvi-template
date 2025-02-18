@@ -1,4 +1,3 @@
-,,Identifier*,File Name*,Parent ID,Alt Text,Contributing Institution*,Parent Collection*,Title*,Rights*,Type*,Creator,Contributor,Date,Description,Extent,Format,Subject,Subject (Name),Subject (Geographic)*,Coordinates,Subject (Temporal)
 objectid,object_location,identifier,filename,parentid,alt_text,contributing_institution,parentid,title,rights,Type,Creator,contributor,date,description,extent,format,subject,[if used for mock-ups: add to subject field) ],location,"separate into 2 columns: latitude
  longitude",recommendation: leave out from mock-up set
 Opt3_001,https://titanapi.minisisinc.com/api/links/492768c0ab2f4b059262034753227522/uuid/e78157c5baed44c09a83895df381b059/access,Opt3_001,Opt3_001,,,SHSI,WMMC,,In Copyright - Educational Use Permitted.,Image;StillImage,Fort Des Moines Museum,Fort Des Moines Museum,8/14/2024,Quilt,1 Page,image/jpeg,WMC,,43.467369,-96.576088,
