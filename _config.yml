@@ -21,7 +21,7 @@ digital-assets: https://isuu00001library102stg.z21.web.core.windows.net/assets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Option 1.
+title: Collection centric portal
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: This will contain a quick tagline for the site
 # description appears in meta tags and other locations
@@ -30,7 +30,7 @@ description: This will contain a summary of the project and its contents. Such a
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: iowa; history; midwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: ls
 
 ##########
 # COLLECTION SETTINGS
@@ -41,7 +41,7 @@ metadata: abvi-mockup-metadata
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 page_gen:
-  - data: 'abvi-mockup-metadata'
+  - data: abvi-mockup-metadata
   - data: 'abvi-mockup-metadata-iiif'
     template: 'manifest'
     template_override: true
@@ -60,9 +60,7 @@ organization-link: https://www.lib.iastate.edu/
 organization-logo-banner: https://isuu00001library102stg.z21.web.core.windows.net/assets/media/dclogo_edited.png
 organization-logo-nav: https://isuu00001library102stg.z21.web.core.windows.net/assets/media/ISU_Library_Center_White.png
 
-/.
-369+-*/598\]=[-0o9i8u7654321`\
-]'[;pijuyh7tg6rf5e4wq2  1"?;.lmnjb vcx
+##########
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
