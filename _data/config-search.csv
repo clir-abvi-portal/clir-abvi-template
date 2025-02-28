@@ -1,5 +1,6 @@
 field,index,display
 title,true,true
+contributing_institution,true,true
 personal_creator,true,true
 corporate_creator,true,true
 interviewee,true,false
