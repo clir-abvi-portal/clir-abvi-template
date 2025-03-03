@@ -10,7 +10,7 @@ accessibility: False
 ---
 
 
-{% include feature/nav-menu.html sections="Vignettes;Bystander" %}
+{% include feature/nav-menu.html sections="Vignettes;" %}
 
 # Vignettes
 
@@ -18,8 +18,4 @@ Mauris rhoncus nisl vitae tellus gravida vehicula. Nam turpis dui, pulvinar eu c
 
 In hac habitasse platea dictumst. Duis nisi odio, finibus quis purus sed, pretium mattis odio. Phasellus at tincidunt sem, ac vestibulum massa. Nulla id magna efficitur, egestas turpis sit amet, feugiat tortor. Aliquam mi nisl, tempor eget sem a, feugiat pharetra ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam leo erat, cursus vitae mauris in, tincidunt dapibus felis. Sed non sodales est. Aliquam et nisi urna. Sed in imperdiet orci, at tristique neque.
 
-# Bystander
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam purus metus, imperdiet id pulvinar porttitor, molestie at felis. Donec eu massa quam. Nullam vitae nibh et nibh vehicula tincidunt nec ac felis. Etiam id fringilla mauris. Nullam sollicitudin sollicitudin libero sed convallis. Nam augue mi, laoreet ac sapien et, lacinia vulputate neque. Maecenas nec mauris elit. Ut mollis ex ligula, quis lacinia magna auctor a. Suspendisse imperdiet ultrices elit quis eleifend.
-
-External Link to the Bystander:
+{% include cb/about_the_about.md %} 
