@@ -11,6 +11,7 @@ accessibility: true
 
 {% include feature/jumbotron.html heading=false text=false position=top objectid="https://www.thecivicseason.com/wp-content/uploads/2022/05/SHMI_CivilRights-WWI-WWII.jpg" %} 
 
+
 {% include feature/nav-menu.html sections="The Bystander Issues Location;The Bystander Background" %}
 
 ## The Bystander Issues Location
