@@ -13,7 +13,11 @@ accessibility: true
 
 {% include feature/nav-menu.html sections="About The Bystander;" %}
 
-## About the The Bystander
-Brief history and summary of content.
+## The Bystander Issues
 
 To search and browse issues of The Bystander, you will need to leave this site. The Bystander has its own, separate collection: [The Bystander Digital Collection](https://www.lib.uidaho.edu/digital/argonaut/).
+
+## What is The Bystander?
+Brief history and summary of content.
+
+{% include feature/image.html objectid="https://chroniclingamerica.loc.gov/lccn/sn85049804/1916-02-18/ed-1/seq-1" width="50" %}
