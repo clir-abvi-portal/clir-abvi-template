@@ -1,3 +1,6 @@
+#Changelog
+.gitignore objects commented out for GH page generation. objects added to objects folder.
+
 # CollectionBuilder-CSV
 
 CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
