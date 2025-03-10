@@ -61,7 +61,7 @@ year-nav-increment: 5 # set increments to auto gen nav years
 # comma delimited list, reference url is automatic
 metadata-export-fields: "objectid,collectionid,parentid,display_template,sequence,title,archival_call_number,archival_collection,finding_aid_ark,archival_series_title,folder_title,box,folder_num,contributing_institution,contributing_institution_uri,personal_creator,personal_creator_uri,corporate_creator,corporate_creator_uri,interviewee,interviewee_uri,interviewer,interviewer_uri,personal_contributor,personal_contributor_uri,corporate_contributor,corporate_contributor_uri,description,language,subject,subject_uri,location,location_uri,latitude,longitude,geodetic_datum,personal_name_subject,personal_name_subject_uri,corporate_name_subject,corporate_name_subject_uri,chronological_subject,extent,medium,medium_uri,genre,genre_uri,type,format,rights,rights_management_valueURI,date,date_digital,publisher,publisher_uri,ark,pres_file,filename,image_small,image_thumb,object_location,object_pdf,image_alt_text,object_ocr,object_hocr,object_transcript,avian_id,uid,issuance,issuance_start,issuance_end,frequency,relation,relation_uri,disclaimer,digital_origin"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,personal_creator,location,personal_name_subject,corporate_name_subject,chronological_subject,genre,format"
+metadata-facets-fields: "subject,personal_creator,location,personal_name_subject,corporate_name_subject,chronological_subject,genre,format,contributing_institution"
 
 ##########
 # Compound Objects 

@@ -1,5 +1,6 @@
 #Changelog
 .gitignore objects commented out for GH page generation. objects added to objects folder.
+-All "...prepend: '/browse.html..." changed to "prepend: '/resources.html" (lsulli12 3/5/2025)
 
 # CollectionBuilder-CSV
 
