@@ -31,3 +31,10 @@ Etiam vulputate semper erat, et posuere justo euismod ut. Quisque ac congue tort
 <a href="https://www.example.com" target="_blank" class="btn btn-success">Iowa State University</a>
 
 <a href="https://www.example.com" target="_blank" class="btn btn-success">State Historical Society of Iowa</a>
+
+<div class="text-center">
+  <img src="https://via.placeholder.com/140" class="rounded-circle" width="140" height="140" alt="Iowa State University" />
+  <h2 class="mt-3">Iowa State University</h2>
+  <p>Explore Iowa State.</p>
+  <a href="https://www.iastate.edu" target="_blank" class="btn btn-success">Visit Iowa State</a>
+</div>
