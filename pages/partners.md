@@ -13,24 +13,53 @@ accessibility: true
 
 {% include feature/nav-menu.html sections="TBD" %}
 
-## Partner Content
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere lectus at risus finibus, vel gravida felis tincidunt. Quisque tincidunt volutpat ipsum quis auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent molestie volutpat est. Aenean efficitur ipsum id mi bibendum viverra. Quisque gravida ut turpis nec faucibus. Maecenas sed ante pharetra, consequat nulla in, cursus velit. Pellentesque lobortis fringilla elit a pulvinar. Nam in urna at nibh pharetra mollis id dictum augue. Aenean consectetur tellus eu augue lacinia tincidunt. Pellentesque blandit pharetra pulvinar. Nullam dolor purus, consequat a magna sit amet, elementum tristique magna. Mauris maximus vulputate velit, non pulvinar metus efficitur nec.
-## Partner Sites
-Etiam vulputate semper erat, et posuere justo euismod ut. Quisque ac congue tortor, id venenatis tortor. Maecenas luctus sollicitudin dignissim. Donec non tellus ante. Fusce pretium libero in accumsan venenatis. Sed laoreet arcu nec odio vestibulum ultrices. Morbi arcu libero, pharetra in nunc vel, bibendum porta ligula. Quisque pellentesque non lorem nec tempor. Nunc efficitur purus ac pellentesque ultricies. Quisque suscipit purus vitae leo mollis, vel finibus tellus euismod. Morbi ut ipsum mollis, varius ante nec, tincidunt justo. Nunc quis orci id justo luctus fringilla. Aenean ullamcorper quam eu semper scelerisque. Pellentesque viverra mauris a mi ornare volutpat sed ut purus. Nam dapibus ante quis leo placerat, id pulvinar turpis euismod. Nam in turpis mollis, facilisis arcu sit amet, venenatis eros.
+## Partner [name]
+Brief summary of what partner does.
 
-### Visit Partner Sites
+Text summarizing partner's contributions to the portal.
+
+Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ... 
 
 <a href="https://www.example.com" target="_blank" class="btn btn-success">African American Museum of Iowa</a>
 
+## Partner [name]
+Brief summary of what partner does.
+
+Text summarizing partner's contributions to the portal.
+
+Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ...
+
 <a href="https://www.example.com" target="_blank" class="btn btn-success">Des Moines Public Library</a>
+
+## Partner [name]
+Brief summary of what partner does.
+
+Text summarizing partner's contributions to the portal.
+
+Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ...
 
 <a href="https://www.example.com" target="_blank" class="btn btn-success">Grinnell College</a>
 
+## Partner [name]
+Brief summary of what partner does.
+
+Text summarizing partner's contributions to the portal.
+
+Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ...
+
 <a href="https://www.example.com" target="_blank" class="btn btn-success">Grout Museum District</a>
 
-<a href="https://www.example.com" target="_blank" class="btn btn-success">Iowa State University</a>
+## All Partners Listed as above
 
-<a href="https://www.example.com" target="_blank" class="btn btn-success">State Historical Society of Iowa</a>
+....
+
+<!-- <a href="https://www.example.com" target="_blank" class="btn btn-success">Grinnell College</a>
+
+// <a href="https://www.example.com" target="_blank" class="btn btn-success">Grout Museum District</a>
+
+// <a href="https://www.example.com" target="_blank" class="btn btn-success">Iowa State University</a>
+
+// <a href="https://www.example.com" target="_blank" class="btn btn-success">State Historical Society of Iowa</a>
 
 <div class="text-center">
   <img src="https://via.placeholder.com/140" class="rounded-circle" width="140" height="140" alt="Iowa State University" />
@@ -38,3 +67,4 @@ Etiam vulputate semper erat, et posuere justo euismod ut. Quisque ac congue tort
   <p>Explore Iowa State.</p>
   <a href="https://www.iastate.edu" target="_blank" class="btn btn-success">Visit Iowa State</a>
 </div>
+-->
